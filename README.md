@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me ... taaha.saleem@gmail.com
+- 📫 How to reach me ... tsalee01@uoguelph.ca
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I solve rubiks cube 3x3 in 2 mins
 
